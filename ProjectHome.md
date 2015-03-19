@@ -1,0 +1,1 @@
+A stock watch software write by python.
